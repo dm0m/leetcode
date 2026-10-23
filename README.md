@@ -9,13 +9,20 @@ others. Following: [NeetCode 150](https://neetcode.io/practice) /
 ## Progress
 
 <!-- STATS:START -->
-_No problems solved yet._
+**Total solved:** 1  
+🟢 Easy: 1 · 🟡 Medium: 0 · 🔴 Hard: 0  
+🔥 **Current streak:** 1 day(s) — last solved 2026-10-23  
+**Languages:** Py (1)  
+**By status:** solved-independently: 1  
+**Top topics:** Array (1), Hash Table (1)  
 <!-- STATS:END -->
 
 ## Problems
 
 <!-- TABLE:START -->
-_No problems yet. Run `./scripts/new.sh` to add one._
+| # | Problem | Difficulty | Topics | Solutions | Status | Date |
+|---|---------|------------|--------|-----------|--------|------|
+| 1 | [Two Sum](problems/0001-two-sum) | 🟢 Easy | Array, Hash Table | Py | solved-independently | 2026-10-23 |
 <!-- TABLE:END -->
 
 ## Usage

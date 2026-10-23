@@ -1,0 +1,37 @@
+# leetcode-tracker ignores
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Java / Kotlin
+*.class
+target/
+build/
+bin/
+
+# C# / .NET
+obj/
+*.user
+
+# C / C++
+*.o
+*.out
+a.out
+
+# JS / TS
+node_modules/
+
+# Go / Rust
+/go.sum.tmp
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

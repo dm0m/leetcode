@@ -1,0 +1,57 @@
+# LeetCode
+
+One problem a day — solutions and notes.
+
+Primary language: **Python**. Select problems are also solved in Java, C#, and
+others. Following: [NeetCode 150](https://neetcode.io/practice) /
+[Grind 75](https://www.techinterviewhandbook.org/grind75).
+
+## Progress
+
+<!-- STATS:START -->
+_No problems solved yet._
+<!-- STATS:END -->
+
+## Problems
+
+<!-- TABLE:START -->
+_No problems yet. Run `./scripts/new.sh` to add one._
+<!-- TABLE:END -->
+
+## Usage
+
+Add a new problem (Python by default):
+
+```bash
+./scripts/new.sh <number> <slug> <difficulty> [topics...]
+# e.g.
+./scripts/new.sh 1 two-sum easy Array "Hash Table"
+```
+
+Start it in several languages at once:
+
+```bash
+./scripts/new.sh -l py,java,csharp 1 two-sum easy Array "Hash Table"
+```
+
+Add another language to a problem you've already started:
+
+```bash
+./scripts/add-lang.sh 1 java
+./scripts/add-lang.sh 0001-two-sum csharp cpp
+```
+
+Supported: `python java csharp cpp c javascript typescript go rust kotlin ruby`
+(aliases like `py`, `js`, `c#` work). Change the default with the
+`LC_LEETCODE_LANG` env var.
+
+Then fill in `NOTES.md` and commit:
+
+```bash
+git add problems/0001-two-sum
+git commit -m "solve: 0001 Two Sum (easy)"
+```
+
+`README.md` regenerates automatically. The source of truth is each problem's
+`NOTES.md` frontmatter plus the solution files present — never edit the tables
+between the `STATS`/`TABLE` markers by hand.

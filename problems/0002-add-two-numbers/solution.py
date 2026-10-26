@@ -36,9 +36,7 @@ class Solution:
 # if __name__ == "__main__":
 #     l1 = Node(9, Node(9, Node(9, Node(9, Node(9, Node(9, Node(9)))))))
 #     l2 = Node(9, Node(9, Node(9, Node(9))))
-#     head = Solution.add_two_numbers(l1, l2)
-#     # print(head.value if head else None) 
-    
+#     head = Solution.add_two_numbers(l1, l2)    
 #     result: list[int] = []
 #     temp = head
 #     while temp:

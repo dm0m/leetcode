@@ -9,12 +9,12 @@ others. Following: [NeetCode 150](https://neetcode.io/practice) /
 ## Progress
 
 <!-- STATS:START -->
-**Total solved:** 5  
-🟢 Easy: 4 · 🟡 Medium: 1 · 🔴 Hard: 0  
-🔥 **Current streak:** 1 day(s) — last solved 2026-10-28  
-**Languages:** Py (5)  
-**By status:** solved-independently: 5  
-**Top topics:** Array (2), Linked List (2), Recursion (2), Dynamic Programming (1), Hash Table (1), Math (1), Stack (1), String (1)  
+**Total solved:** 4  
+🟢 Easy: 3 · 🟡 Medium: 1 · 🔴 Hard: 0  
+🔥 **Current streak:** 2 day(s) — last solved 2026-10-26  
+**Languages:** Py (4)  
+**By status:** solved-independently: 4  
+**Top topics:** Linked List (2), Recursion (2), Array (1), Hash Table (1), Math (1), Stack (1), String (1)  
 <!-- STATS:END -->
 
 ## Problems
@@ -26,7 +26,6 @@ others. Following: [NeetCode 150](https://neetcode.io/practice) /
 | 2 | [Add Two Numbers](problems/0002-add-two-numbers) | 🟡 Medium | Linked List, Math, Recursion | Py | solved-independently | 2026-10-23 |
 | 20 | [Valid Parentheses](problems/0020-valid-parentheses) | 🟢 Easy | Stack, String | Py | solved-independently | 2026-10-25 |
 | 21 | [Merge Two Sorted Lists](problems/0021-merge-two-sorted-lists) | 🟢 Easy | Linked List, Recursion | Py | solved-independently | 2026-10-26 |
-| 121 | [Best Time To Buy And Sell Stock](problems/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Array, Dynamic Programming | Py | solved-independently | 2026-10-28 |
 <!-- TABLE:END -->
 
 ## Usage
